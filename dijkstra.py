@@ -273,3 +273,7 @@ caja = ctk.CTkTextbox(ventana, height=200, font=("Consolas", 13))
 caja.pack(fill="x", padx=10, pady=(0, 10))
 
 ventana.mainloop()  # deja la ventana abierta esperando clics
+
+# Acerca de Avance:
+# 1. El codigo se encuentra en un 60% de progreso. Se compromete a agregar nuevas features para la proxima entrega
+
